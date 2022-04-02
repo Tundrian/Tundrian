@@ -1,5 +1,6 @@
-### Hi there 👋
+### Welcome to my profile 👋
 
+# Feel free to browse some of my projects
 <!--
 **Tundrian/Tundrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
