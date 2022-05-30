@@ -32,7 +32,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=tundrian&label=Profile%20views&color=0e75b6&style=flat" alt="tundrian" /> </p>
 
 <p align="left"> <a href="https://twitter.com/probablystark" target="blank"><img src="https://img.shields.io/twitter/follow/probablystark?logo=twitter&style=for-the-badge" alt="probablystark" /></a> </p>   -->
-<div align="center"><a target="_blank" href="https://www.codewars.com/users/Tundrian"><img src="https://www.codewars.com/users/Tundrian/badges/large" /></a> </div> 
+<div align="center"><a target="_blank" href="https://www.codewars.com/users/TonyStarkProbably"><img src="https://www.codewars.com/users/TonyStarkProbably/badges/large" /></a> </div> 
 
 ---
 
