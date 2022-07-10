@@ -1,50 +1,28 @@
-<!-- ### Welcome to my profile 👋
-
-# Feel free to browse some of my projects
-
-### About me:  
-![codewars](https://www.codewars.com/users/Tundrian/badges/small)   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="25"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="25" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="25" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="25"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind" width="25" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="25"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="25" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vue" width="25" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="nuxt" width="25" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="25" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="25" />   
-
-- 🔭 I’m currently working on MERN stack projects relating to gaming, project management, and various other topics.
-- 🌱 I’m currently diving deeper into React / Next as well as the newly released Nuxt3 framework.
-- 👯 I’m looking to collaborate on social and environmental projects.
-- 📫 How to reach me: dm me on Twitter https://twitter.com/ProbablyStark
-
-## Some Interesting Projects to play around with
-- [Pokémon Battle](https://pokemontypebattle.netlify.app/) Select two Pokémon and see which one has a type advantage.
-- :warning:(WIP) [Ready Up](https://readyup.netlify.app/) Add the games you own to a virtual library. -->
-
 ![](https://raw.githubusercontent.com/Tundrian/Tundrian/main/github-banner-1.png)
-<h1 align="center">Hi 👋, I'm Antonio Sansotta</h1>
-<h3 align="center">A fullstack developer in Canada</h3>
+<p align="center">
+  <a href="https://antoniosansotta.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+  <a href="https://linkedin.com/in/antoniosansotta" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="https://twitter.com/probablystark" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+  </a>
+  <a href="https://angel.co/u/antonio-sansotta" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
+  </a>
+<!--   <a href="https://antoniosansotta.netlify.app/resume" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a> -->
+</p>
+<h3 align="center">Full stack web developer in Canada, specializing in the MERN stack, OOP, and agile development.</h3>
+<p align="centeR">Background in finance, business operations, ERP consulting, and I.T. administration</p>
+<p align="center">See all of my projects on <a href="https://antoniosansotta.netlify.app/](https://antoniosansotta.netlify.app/" target="_blank">my website</a>.</p>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=tundrian&label=Profile%20views&color=0e75b6&style=flat" alt="tundrian" /> </p>
+<!-- <div align="center"><a target="_blank" href="https://www.codewars.com/users/TonyStarkProbably"><img src="https://www.codewars.com/users/TonyStarkProbably/badges/large" /></a> </div>  -->
 
-<p align="left"> <a href="https://twitter.com/probablystark" target="blank"><img src="https://img.shields.io/twitter/follow/probablystark?logo=twitter&style=for-the-badge" alt="probablystark" /></a> </p>   -->
-<div align="center"><a target="_blank" href="https://www.codewars.com/users/TonyStarkProbably"><img src="https://www.codewars.com/users/TonyStarkProbably/badges/large" /></a> </div> 
 
----
-
-<!-- 
-- 🔭 I’m currently working on **A fullstack (MERN) project management application**
-
-- 🌱 I’m currently learning **to better optimize fullstack applications** -->
-
-- 👨‍💻 All of my projects are available at [https://antoniosansotta.netlify.app/](https://antoniosansotta.netlify.app/)
-
-- 💬 Ask me about **React, Vue, JavaScript, or Node**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
