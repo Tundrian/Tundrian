@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/Tundrian/Tundrian/main/github-banner-1.png)
 <p align="center">
-  <a href="https://antoniosansotta.netlify.app" target="_blank">
+  <a target="_blank" href="https://antoniosansotta.netlify.app" >
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://linkedin.com/in/antoniosansotta" target="_blank">
