@@ -18,7 +18,7 @@
 </p>
 <h3 align="center">Full stack web developer in Canada, specializing in the MERN stack, OOP, and agile development.</h3>
 <p align="centeR">Background in finance, business operations, ERP consulting, and I.T. administration</p>
-<p align="center">See all of my projects on <a href="https://antoniosansotta.netlify.app/](https://antoniosansotta.netlify.app/" target="_blank">my website</a>.</p>
+<p align="center">See all of my projects on <a href="https://antoniosansotta.netlify.app/" target="_blank">my website</a>.</p>
 <p align="center">
    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
