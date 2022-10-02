@@ -55,11 +55,7 @@
       </p>
         <p><strong>React, Sass, Node.js, Express.js, MongoDB</strong> - Database driven library for users to save and view games in their personal library.</p>
     </td>
-  </tr>
-  <br />
-  <br />
-    <tr width="100%">
-    <td width="50%" valign="top">
+     <td width="50%" valign="top">
       <h3 align="center">Onion ERP</h3>
         <br />
         <a target="_blank" href="#">
@@ -78,6 +74,8 @@
         <p><strong>EJS, Tailwind, Node.js, Express.js, MongoDB</strong> - ERP system for a local labor union. Allows the management of union members including training, certification, dispatches, and contractors.</p>
     </td>
   </tr>
+  <br />
+  <br />
   </table>
   
   
