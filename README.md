@@ -89,7 +89,7 @@
   </table>
             
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tundrian&" alt="tundrian" /></p> 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tundrian&show_icons=true&locale=en" alt="tundrian" /></p>   -->
+<p align="center"><img src="https://www.codewars.com/users/TonyStarkProbably/badges/large" /></p>
 
 
 
